@@ -1,23 +1,17 @@
-**Can multi-armed bandit and
-Bayesian methods save life and money?**
+#Can multi-armed bandit and Bayesian methods save life and money?
 
 _Shaurya Kumar Shahi             Himanshu
 Rai Jain_
 
 _BE/1413/2011                         BE/1383/2011_
 
-[_shahi.shaurya@gmail.com_](mailto:shahi.shaurya@gmail.com)_                                _[_hrj1991@gmail.com_](mailto:hrj1991@gmail.com)
 
-** **
+*Project Guide: Dr. Sandip Dutta*
 
-_Project Guide: Dr. Sandip Dutta_
 
-_ _
+*Abstract*
 
-**Abstract**
-
-The
-general problem of choosing the best alternative solution from several possible
+The general problem of choosing the best alternative solution from several possible
 ones comes up in different fields. Most real world problems involve complex
 phenomenon and solution is needed under tight deadline. Statistical hypothesis
 testing has emerged as the most popular method to solve such problems of
@@ -34,8 +28,6 @@ tested (in case of terminal illness average lifetime after treatment may also
 be compared). In a web A/B test a visitor to the website is randomly shown a
 variation of the user interface (UI) and the average revenue generated using
 different UI variations are compared. 
-
- 
 
 This approach to testing has worked well, but has a big flaw.
 In a randomized experiment we use the sub optimal solution for several test
