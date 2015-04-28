@@ -1,12 +1,9 @@
 #Can multi-armed bandit and Bayesian methods save life and money?
 
-_Shaurya Kumar Shahi             Himanshu
-Rai Jain_
+- Shaurya Kumar Shahi (BE/1413/2011), BIT Mesra
+- Himanshu Rai Jain (BE/1383/2011) , BIT Mesra
 
-_BE/1413/2011                         BE/1383/2011_
-
-
-*Project Guide: Dr. Sandip Dutta*
+*Project Guide: Dr. Sandip Dutta, H.O.D, CSE, BIT Mesra*
 
 
 *Abstract*
