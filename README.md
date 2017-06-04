@@ -1,4 +1,4 @@
-#Can multi-armed bandit and Bayesian methods save life and money?
+# Can multi-armed bandit and Bayesian methods save life and money?
 
 - Shaurya Kumar Shahi (BE/1413/2011), BIT Mesra
 - Himanshu Rai Jain (BE/1383/2011) , BIT Mesra
